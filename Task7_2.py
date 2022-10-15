@@ -12,3 +12,4 @@ while i<5:
       d[key] = c
       print("Добавили новое значение")
    i=i+1
+#Savoskina
