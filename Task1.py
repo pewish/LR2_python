@@ -11,7 +11,7 @@ while x - i >= i:
         k = 1
         break
 if k == 1:
-  print("no")
+  print("false")
 else:
-  print("yes")
+  print("true")
 #Savoskina
