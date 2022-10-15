@@ -13,4 +13,5 @@ a = float(input('Число: '))
 n = int(input('Степень: '))
 #Вывод результатов
 print('Корень =', end=' ')
-print(sqr_n(a, n
+print(sqr_n(a, n)
+#Savoskina
